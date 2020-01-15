@@ -1,0 +1,22 @@
+{
+  "name": "gulp-setup",
+  "version": "1.0.0",
+  "description": "Bootstrap Login UI",
+  "main": "index.js",
+  "author": "Adonai Nangui<adonainangui03@gmail.com>",
+  "scripts": {
+    "dev": "gulp watchFile"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "browser-sync": "^2.26.5",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^3.0.1",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-sass": "^4.0.2",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0"
+  }
+}
